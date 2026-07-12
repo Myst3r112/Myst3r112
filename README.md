@@ -13,12 +13,6 @@ Hola! Encantado de conocerte, mi nombre es jhostyn, estoy apacionado por la prog
 | 🎨 CSS3 | 💻 Visual Studio Code |
 | 💛 JavaScript | 📝 Markdown |
 
-## 📈 Mis estadísticas de GitHub
-¡Aquí puedes ver mis actividad y cómo voy mejorando mi código día a día!
-
-![Racha de GitHub](https://github-readme-streak-stats.herokuapp.com/?user=Myst3r112&theme=dark)\
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Myst3r112&show_icons=true&theme=dark)
-
 ## 🏆 Mis Trofeos de GitHub
 ![Trofeos de Jhostyn](https://github-profile-trophies.vercel.app/?username=Myst3r112&theme=onedark&column=4)
 
